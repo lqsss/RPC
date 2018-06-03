@@ -1,10 +1,13 @@
 # RPC
+## 详细介绍
+https://lqsss.github.io/2018/06/03/rpc/
 
 ## 主要模块
 - consumer
 - rpc-user-api
 - rpc-user-core
 - rpc-example
+- rpc-main
 
 ## 技术栈
 - Spring
